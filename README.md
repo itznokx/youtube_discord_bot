@@ -1,5 +1,4 @@
 # Music Bot for discord
-
 ## About
 Music Discord bot with Youtube integration
 
@@ -15,7 +14,3 @@ Fork of [youtube-dl](https://github.com/ytdl-org/youtube-dl). Python Lib utilize
 
 ### [discord-api](https://discord.com/developers/docs/quick-start/overview-of-apps)
 Utilizing Discord API to interact with servers and user's messages.
-=======
-# youtube_discord_bot
-Music Discord Bot with Youtube integration
->>>>>>> origin/main
