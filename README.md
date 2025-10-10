@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Music Bot for discord
 
 ## About
