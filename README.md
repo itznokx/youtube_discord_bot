@@ -4,7 +4,6 @@ Music Discord bot with Youtube integration
 
 ## Requeriments
 - Python3 
-- pip
 - Docker
 
 ## Tools
