@@ -1,7 +1,7 @@
 FROM python:3.13
-
-WORKDIR /usr/local/app
-COPY . .
+WORKDIR main
+COPY bot_requeriments.txt .
+COPY app .
 EXPOSE 6666 
 RUN pip install --no-cache-dir -r bot_requeriments.txt 
 RUN useradd app 
