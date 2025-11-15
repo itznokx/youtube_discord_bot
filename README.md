@@ -13,3 +13,9 @@ Fork of [youtube-dl](https://github.com/ytdl-org/youtube-dl). Python Lib utilize
 
 ### [discord-api](https://discord.com/developers/docs/quick-start/overview-of-apps)
 Utilizing Discord API to interact with servers and user's messages.
+
+### [discord.py](https://discordpy.readthedocs.io/en/stable/#)
+Python Lib to work with Discord API
+
+### [aiohttp](https://docs.aiohttp.org/en/stable/)
+Python Lib made for assincronous Web Development ( Client and Server )
