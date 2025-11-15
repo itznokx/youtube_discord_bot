@@ -1,4 +1,3 @@
-import numpy
 import random
 import sys
 import discord
@@ -23,7 +22,7 @@ class BotCommands (commands.Cog):
 async def setup(bot:commands.Bot):
     await bot.add_cog(BotCommands(bot))
 
-"""
+""" Interaction json return
 {'type': 1, 'options': [{'value': 1, 'type': 4, 'name': 'floor'}, {'value': 10, 'type': 4, 'name': 'ceil'}], 'name': 'rollnumbers', 'id': '1439078704553922723', 'guild_id': '76161895154502861
 8'}
 """
